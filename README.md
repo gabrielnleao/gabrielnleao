@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Robotics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me gabrielnleao@hotmail.com
+- 📫 How to reach me gabrielnunescleao@outlook.com
 
 <!---
 gabrielnleao/gabrielnleao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
